@@ -1,0 +1,10 @@
+# デバイスID (Cumulocityが払い出したID)
+deviceId: "******"
+# CumulocityへのログインID
+userId: "******"
+# Cumulocityへのログインパスワード
+password:  "******"
+# 温度情報が格納されているファイルへのパス
+filename: "/sys/bus/w1/devices/******/w1_slave"
+# CumulocityのURL
+url: "******"
